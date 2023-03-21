@@ -1,0 +1,5 @@
+user-agent: *
+disallow: /old-contenido/
+disallow: /admin/
+disallow: info-demo.txt
+Sitemap:http://eduardcolmenares.com/red/sitemap.xml
